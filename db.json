@@ -2,12 +2,66 @@
   "todos":[
   {
     "id": 1,
-    "title": "delectus aut autem",
+    "title": "To complete web online course",
     "completed": false
   },
   {
     "id": 2,
-    "title": "quis ut nam facilis et officia qui",
+    "title": "Cook lunch for family",
+    "completed": false
+  }
+    ,
+  {
+    "id": 3,
+    "title": "Study and reading for slides",
+    "completed": false
+  }
+    ,
+  {
+    "id": 4,
+    "title": "Workout",
+    "completed": false
+  }
+    ,
+  {
+    "id": 5,
+    "title": "take a nap for 10 mins",
+    "completed": false
+  }
+    ,
+  {
+    "id": 6,
+    "title": "clean my room",
+    "completed": false
+  }
+    ,
+  {
+    "id": 7,
+    "title": "Wash car",
+    "completed": false
+  }
+    ,
+  {
+    "id": 8,
+    "title": "Meditate 10 mins",
+    "completed": false
+  }
+    ,
+  {
+    "id": 9,
+    "title": "Play some games",
+    "completed": false
+  }
+    ,
+  {
+    "id": 10,
+    "title": "Listen to music",
+    "completed": false
+  }
+    ,
+  {
+    "id": 11,
+    "title": "Reading",
     "completed": false
   }
  ]
